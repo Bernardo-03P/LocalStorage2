@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin: 400px;
+    background-color: darkblue;
+
+}
+input{
+    padding: 10px;
+    background-color: black;
+    color: crimson;
+}
+button{
+    background-color: black;
+    color: white;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button1:hover{
+    background-color: crimson;
+    color: white;
+}
